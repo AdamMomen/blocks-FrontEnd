@@ -2,7 +2,6 @@
 
 # UniBlocks FrontEnd 🏢
 
-[GitHub](https://github.com/n0tw0rking)
 ![UniBlocks](./demo/demo.gif)
 
 Public Local management service that helps you to organize your home with other property owners in your neighborhood for better life quality.
